@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import sk from "@stormkit/api";
 
 function App() {
+  console.log("===", sk.config().get("test_conf"))
+
   return (
     <div className="App">
       <header className="App-header">
