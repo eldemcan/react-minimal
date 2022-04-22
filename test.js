@@ -1,0 +1,1 @@
+window.sk = {name: "teest"}
