@@ -1,1 +1,1 @@
-window.sk = {name: "teest"}
+window.sk = {name: "test"}
